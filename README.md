@@ -22,7 +22,7 @@ https://github.com/MohamedHussien991999/todo_app/assets/93053169/87843e43-4f49-4
 
 4) Bloc provider
 
-5 ) State management using bloc(cubit)
+5) State management using bloc(cubit)
 
 6) Cupertino icons
 
