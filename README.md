@@ -1,16 +1,35 @@
-# todo_app
+# Todo App  
 
-A new Flutter project.
+## A) Video That descibtion  App
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/MohamedHussien991999/todo_app/assets/93053169/87843e43-4f49-439f-83b6-08db2cdc422c
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+##   B) Tools 
+
+1) Sqflite
+
+2) Intl
+
+3)conditional_builder_null_safety
+
+4)bloc provider
+
+5)State management using bloc(cubit)
+
+6)Cupertino icons
+
+## C) Features
+• New Tasks Screen
+
+• Archived Screen
+
+• Done Screen
+
