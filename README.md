@@ -27,9 +27,9 @@ https://github.com/MohamedHussien991999/todo_app/assets/93053169/87843e43-4f49-4
 6) Cupertino icons
 
 ## C) Features
-• New Tasks Screen
+  • New Tasks Screen
 
-• Archived Screen
+  • Archived Screen
 
-• Done Screen
+  • Done Screen
 
